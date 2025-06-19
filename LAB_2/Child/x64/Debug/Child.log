@@ -1,0 +1,5 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  Child.cpp
+D:\4семестр\Operating-system\LAB_2\Child\Child.cpp(33,34): warning C4101: e: неиспользованная локальная переменная
+D:\4семестр\Operating-system\LAB_2\Child\Child.cpp(45,38): warning C4101: e: неиспользованная локальная переменная
+  Child.vcxproj -> D:\4семестр\Operating-system\LAB_2\Debug\Child.exe

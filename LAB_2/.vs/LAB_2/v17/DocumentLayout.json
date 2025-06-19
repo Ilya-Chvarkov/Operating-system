@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3869E8-9119-417A-A319-66493273E9A6}|Parent\\Parent.vcxproj|D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Parent\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3869E8-9119-417A-A319-66493273E9A6}|Parent\\Parent.vcxproj|solutionrelative:Parent\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E9381-1835-4F14-ABCA-DED4FB6497A9}|Child\\Child.vcxproj|D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Child\\Child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322E9381-1835-4F14-ABCA-DED4FB6497A9}|Child\\Child.vcxproj|solutionrelative:Child\\Child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Child.cpp",
+              "DocumentMoniker": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Child\\Child.cpp",
+              "RelativeDocumentMoniker": "Child\\Child.cpp",
+              "ToolTip": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Child\\Child.cpp",
+              "RelativeToolTip": "Child\\Child.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T14:16:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.cpp",
+              "DocumentMoniker": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Parent\\Parent.cpp",
+              "RelativeDocumentMoniker": "Parent\\Parent.cpp",
+              "ToolTip": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\LAB_2\\Parent\\Parent.cpp",
+              "RelativeToolTip": "Parent\\Parent.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T14:15:55.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

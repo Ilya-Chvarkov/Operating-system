@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC175AD-178C-42E4-BB1A-469EC6F9EC6C}|Server\\Server.vcxproj|D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC175AD-178C-42E4-BB1A-469EC6F9EC6C}|Server\\Server.vcxproj|solutionrelative:Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C7931A-7EDE-478E-ADFE-51248D6986C1}|Small\\Small.vcxproj|D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Small\\Small.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4C7931A-7EDE-478E-ADFE-51248D6986C1}|Small\\Small.vcxproj|solutionrelative:Small\\Small.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Small.cpp",
+              "DocumentMoniker": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Small\\Small.cpp",
+              "RelativeDocumentMoniker": "Small\\Small.cpp",
+              "ToolTip": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Small\\Small.cpp",
+              "RelativeToolTip": "Small\\Small.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T19:21:27.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Server\\Server.cpp",
+              "RelativeDocumentMoniker": "Server\\Server.cpp",
+              "ToolTip": "D:\\4\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Operating-system\\Lab_5\\Server\\Server.cpp*",
+              "RelativeToolTip": "Server\\Server.cpp*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T19:21:17.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
